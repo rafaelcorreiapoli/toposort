@@ -49,7 +49,7 @@
   },
   "release": {
     "branch": "master",
-    "repositoryUrl": "https://github.com/thunder-js/common-js",
+    "repositoryUrl": "https://github.com/thunder-js/toposort",
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/npm",
@@ -73,6 +73,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thunder-js/common-js.git"
+    "url": "https://github.com/thunder-js/toposort.git"
   }
 }
